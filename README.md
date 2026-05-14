@@ -341,4 +341,4 @@ This simulation was built on top of **CodrutRomas' 6U PolySat MATLAB/Simulink EP
 
 EPS subsystem simulation developed by [@axmalakar](https://github.com/axmalakar).
 Orbital ephemeris provided by the OKSat Aero team (GMAT).
-Faculty advisors: Dr. O'Hara, Dr. Faruque.
+Faculty advisors: Dr. O'Hara.
