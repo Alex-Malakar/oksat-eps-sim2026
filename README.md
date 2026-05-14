@@ -51,6 +51,8 @@ Panel normals are defined in this body frame. The 4 deployed wing panels face an
 
 The simulation is built around a MATLAB/Simulink model (`main_simulation.slx`). All parameters are initialized via `init_parameters.m` and loaded into the Simulink base workspace before each run. There is no `params_simulink.mat` — parameters are passed directly from the MATLAB base workspace.
 
+<img width="1438" height="792" alt="Image" src="https://github.com/user-attachments/assets/55e76803-30b2-4400-8de3-82c5f93f2471" />
+
 ### Subsystem Models
 
 **Solar Array** (`solar_array_model.m`)
